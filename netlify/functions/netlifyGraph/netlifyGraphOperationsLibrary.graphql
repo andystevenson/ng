@@ -1,0 +1,7 @@
+mutation ExampleMutation {
+  __typename
+}
+
+query ExampleQuery 
+  __typename
+}
